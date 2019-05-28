@@ -1,0 +1,16 @@
+git reflog -removed commits can be seen even after reset
+git cherry-pick 
+git status
+git fetch origin master
+
+git revert
+git reset
+git checkout 
+git tag -a v1.0 -m "tagging for the release to production"( -a is for annotation)git
+
+git merge --no off
+
+git rebase
+
+
+rm -rf .git  removes the directory
